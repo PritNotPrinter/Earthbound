@@ -19,19 +19,19 @@ Furthermore, the mechanics of a game like Earthbound are possible within JSwing,
 ## Key Features
 
 ### Login/Registration Page:
-  Options to load an existing save or create a new save (current save slot limit of 2)
-  Character/class selection screen, with each class having different abilities/movesets
+  Options to load an existing save or create a new save (current save slot limit of 2);
+  Character/class selection screen, with each class having different abilities/movesets.
 
 ### Gameplay:
-  Idle animations between actions, animations for actions + effects
-  Turn-based actions selected on mouse click, dependent on mana level and hp level
-  Timer countdown to choose an action.
+  Idle animations between actions, animations for actions + effects;
+  Turn-based actions selected on mouse click, dependent on mana level and hp level;
+  Timer countdown to choose an action;
   
 	Action Types:
     Attack
     Defend
     Heal
     Ability
-  Semi-random enemy algorithm
-  EXP System + player leveling
-  Multiple stages with custom enemies/enemy abilities
+  Semi-random enemy algorithm;
+  EXP System + player leveling;
+  Multiple stages with custom enemies/enemy abilities.
