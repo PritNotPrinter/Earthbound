@@ -25,13 +25,6 @@ Furthermore, the mechanics of a game like Earthbound are possible within JSwing,
 ### Gameplay:
   Idle animations between actions, animations for actions + effects;
   Turn-based actions selected on mouse click, dependent on mana level and hp level;
-  Timer countdown to choose an action;
-  
-	Action Types:
-    Attack
-    Defend
-    Heal
-    Ability
   Semi-random enemy algorithm;
   EXP System + player leveling;
   Multiple stages with custom enemies/enemy abilities.
